@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "StillWorkingOnIt"
+title                    : "Research For Everyone"
 title_separator          : "-"
 name                     : &name "KatLympe"
 description              :  "Master student Interdisciplinary Graduate Programme Brain and Mind Sciences"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Katerina Lymperidou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "EEG data analysis through time series and MVAR modeling"
   location         : "Barcelona, Spain"
   employer         : "Center of Brain and Cognition, University of Pompeu Fabra"
   pubmed           : 
