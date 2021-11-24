@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "StillWorkingOnIt"
 title_separator          : "-"
 name                     : &name "KatLympe"
-description              : &description "Master student Interdisciplinary Graduate \n Programme Brain and Mind Sciences"
+description              :  "Master student Interdisciplinary Graduate Programme Brain and Mind Sciences"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Barcelona, Spain"
-  employer         : "Visitor student in Center of Brain and Cognition, University of Pompeu Fabra"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Center of Brain and Cognition, University of Pompeu Fabra"
+  pubmed           : 
+  googlescholar    : 
   email            : "kat.lympe@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
